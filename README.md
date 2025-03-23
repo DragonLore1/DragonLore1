@@ -1,5 +1,7 @@
 # 🌟 Backend Project
 
+👋 Assalomu alaykum! Bu loyiha README fayli Xudoyberdiyev Shaxriyor tomonidan tayyorlandi. 😊
+
 ![GitHub stars](https://img.shields.io/github/stars/username/repository?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/username/repository?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/username/repository)
